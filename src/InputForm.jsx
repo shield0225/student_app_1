@@ -10,7 +10,7 @@ export default function InputForm() {
           Full Name
         </Form.Label>
         <Col sm="10">
-          <Form.Control className="input-field" plaintext placeholder="Aileen Salcedo" />
+          <Form.Control className="input-field" plaintext placeholder="Shield Salcedo" />
         </Col>
       </Form.Group>
 
